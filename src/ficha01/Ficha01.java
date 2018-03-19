@@ -16,7 +16,7 @@ public class Ficha01 {
      */
     public static void main(String[] args) {
         //Imprime na consola "Ola mundo"
-        System.out.println("Ola mundo");
+        System.out.println("Ola mundo.");
     }
     
 }
