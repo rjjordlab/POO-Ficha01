@@ -14,6 +14,6 @@ import javax.swing.JOptionPane;
 public class HelloGui {
     public static void main(String[] args) {
         //Mostra uma janela de dialogo com texto
-        JOptionPane.showMessageDialog(null, "Hello Java!!!!");
+        JOptionPane.showMessageDialog(null, "Hello Java");
     }
 }
