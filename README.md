@@ -1,2 +1,2 @@
-# POO-Ficha01
-Resulucao da POO ficha n1
+# POO_Ficha01
+Ficha01 da disciplina POO
